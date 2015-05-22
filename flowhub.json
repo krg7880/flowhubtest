@@ -1,3 +1,7 @@
 {
-  "id": "022c04c3-2714-4288-845d-20fbc7c9c243"
+  "id": "022c04c3-2714-4288-845d-20fbc7c9c243",
+  "user": "krg7880",
+  "host": "autodetect",
+  "port": 3569,
+  "label": "flowhubtest"
 }
