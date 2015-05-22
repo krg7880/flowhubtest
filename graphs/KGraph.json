@@ -1,0 +1,15 @@
+{
+    "properties": {
+        "name": "KGraph",
+        "environment": {
+            "type": "noflo-browser",
+            "content": ""
+        },
+        "icon": ""
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
